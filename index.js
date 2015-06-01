@@ -1,7 +1,7 @@
 (function() {
   'use strict';
 
-  angular.module('components.browserDetect', [])
+  angular.module('browserIf', [])
     .directive('browserIf', browserIf)
     .service('matchBrowser', matchBrowser)
   ;

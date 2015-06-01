@@ -1,0 +1,25 @@
+{
+  "name": "browser-if",
+  "main": "index.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Landdox/browserIf",
+  "authors": [
+    "Antonin Januska <antonin@antjanus.com>"
+  ],
+  "description": "An angular one-time-bound ng-if-like directive that shows an element based on the browser",
+  "keywords": [
+    "angular",
+    "directive",
+    "ngIf",
+    "browser",
+    "detect"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
