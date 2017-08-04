@@ -1,0 +1,24 @@
+{
+  "name": "browser-if",
+  "version": "0.0.1",
+  "description": "Use angular to show an element based on the browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Landdox/browserIf.git"
+  },
+  "keywords": [
+    "angular",
+    "browser",
+    "browser-if"
+  ],
+  "author": "https://github.com/AntJanus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Landdox/browserIf/issues"
+  },
+  "homepage": "https://github.com/Landdox/browserIf#readme"
+}

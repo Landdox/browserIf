@@ -7,6 +7,10 @@ First, install the component via bower like so:
 
 `bower install browser-if`
 
+or
+
+`npm install browser-if`
+
 Include in your file and add it as a dependency to your angular application, like so:
 
 ```
